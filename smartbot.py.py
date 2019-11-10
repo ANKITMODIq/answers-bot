@@ -16,4 +16,4 @@ async def on_ready():
 
 
 
-bot.run("please enter your token here ")
+bot.run("NjQzMDIxMzU4OTg0NDYyMzQ2.XcfaXg.gCeYV_Xx0oXVvjiF4wZW_IClArM")
